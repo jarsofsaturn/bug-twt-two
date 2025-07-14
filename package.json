@@ -1,0 +1,6 @@
+{
+  "name": "buggie-rss-server",
+  "version": "1.0.0",
+  "main": "rss.js",
+  "type": "module"
+}
